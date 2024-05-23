@@ -1,12 +1,14 @@
 # 10.3.3-Drivers-test
 
 ## Todo: 
-1. Load a logo for a drivers school
+
+Plese do item 1-4 on your own. I will go thought the next part with you. 
+1. Load a logo for a driver's school
 2. Add variables for age and testScore
 3. use window prompt to ask users for their age
 4. if their age is able 16, they can do the test, else if above 14 learners... else .... hit the road jack.
 5. Put in the test answers
-    - use `key === '3'` to check if the last key they pressed was "3"  remember the "" for all of these
+    - use `key === '3'` to check if the last key they pressed was "3"  Remember the "" for all of these
 
 ```
 // Drivers Test
