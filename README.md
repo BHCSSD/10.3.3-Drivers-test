@@ -54,15 +54,15 @@ function draw() {
 
 function keyPressed() {
   //5) answering the questions
-    if(){
-        testScore++;
-    } else if (){ // set to y
-        testScore++;       
-    } else if (){ // set to left arrow...  this is something new look up keyCode in p5 refference
-        testScore++;
-    } else if(){ // set to n
-        testScore++;
-    }
+   // if(){
+    //    testScore++;
+    //} else if (){ // set to y
+    //    testScore++;       
+    //} else if (){ // set to left arrow...  this is something new look up keyCode in p5 reference
+    //    testScore++;
+    //} else if(){ // set to n
+    //    testScore++;
+   // }
  
 }//end keyPressed
 ```
